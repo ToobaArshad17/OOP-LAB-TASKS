@@ -1,0 +1,4 @@
+16774,Linux OS,Open source system,0
+30516,Windows,Proprietary operating system,199
+11651,MacOS,Apple operating system,299
+4350,Editor,Basic text editing software,49
